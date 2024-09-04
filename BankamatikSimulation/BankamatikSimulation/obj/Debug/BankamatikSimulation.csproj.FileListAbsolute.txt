@@ -1,0 +1,12 @@
+C:\Users\btk02\source\repos\BankamatikSimulation\BankamatikSimulation\bin\Debug\BankamatikSimulation.exe.config
+C:\Users\btk02\source\repos\BankamatikSimulation\BankamatikSimulation\bin\Debug\BankamatikSimulation.exe
+C:\Users\btk02\source\repos\BankamatikSimulation\BankamatikSimulation\bin\Debug\BankamatikSimulation.pdb
+C:\Users\btk02\source\repos\BankamatikSimulation\BankamatikSimulation\obj\Debug\BankamatikSimulation.csproj.AssemblyReference.cache
+C:\Users\btk02\source\repos\BankamatikSimulation\BankamatikSimulation\obj\Debug\BankamatikSimulation.Form1.resources
+C:\Users\btk02\source\repos\BankamatikSimulation\BankamatikSimulation\obj\Debug\BankamatikSimulation.Form2.resources
+C:\Users\btk02\source\repos\BankamatikSimulation\BankamatikSimulation\obj\Debug\BankamatikSimulation.Form3.resources
+C:\Users\btk02\source\repos\BankamatikSimulation\BankamatikSimulation\obj\Debug\BankamatikSimulation.Properties.Resources.resources
+C:\Users\btk02\source\repos\BankamatikSimulation\BankamatikSimulation\obj\Debug\BankamatikSimulation.csproj.GenerateResource.cache
+C:\Users\btk02\source\repos\BankamatikSimulation\BankamatikSimulation\obj\Debug\BankamatikSimulation.csproj.CoreCompileInputs.cache
+C:\Users\btk02\source\repos\BankamatikSimulation\BankamatikSimulation\obj\Debug\BankamatikSimulation.exe
+C:\Users\btk02\source\repos\BankamatikSimulation\BankamatikSimulation\obj\Debug\BankamatikSimulation.pdb
